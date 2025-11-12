@@ -18,8 +18,10 @@ O e-book completo está disponível neste repositório.
 ### Estrutura do Conteúdo
 
 **Capítulo 1: O Despertar da IA Generativa** Uma introdução ao "Ambiente Vazio" do engenheiro de dados e como a GenAI preenche essa lacuna.
+
 **Capítulo 2: MINI-BOSS: O Deserto de Dados**Um exemplo prático usando o método STAR para gerar dados de teste (mock data) , comparando o método antigo ("Grind")  com o "Modo Deus" (IA Generativa)
-* **Capítulo 3: LEVEL CLEAR! O Novo High Score**  Uma análise dos resultados e como a GenAI elimina o "grinding" do trabalho.
+
+**Capítulo 3: LEVEL CLEAR! O Novo High Score**  Uma análise dos resultados e como a GenAI elimina o "grinding" do trabalho.
 
 ## O Processo de Criação 
 
