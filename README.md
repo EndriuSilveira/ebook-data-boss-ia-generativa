@@ -1,8 +1,8 @@
-# 🚀 Data Boss: O Modo Deus da IA Generativa
+# Data Boss: O Modo Deus da IA Generativa
 
 ![Capa do Ebook](capa_ebook)
 
-Bem-vindo ao repositório do projeto "Data Boss: O Modo Deus da IA Generativa"[cite: 1, 2]. Este projeto é um e-book focado em como a Inteligência Artificial Generativa pode ser um *power-up* para engenheiros de dados, transformando tarefas complexas em processos eficientes.
+Bem-vindo ao repositório do projeto "Data Boss: O Modo Deus da IA Generativa". Este projeto é um e-book focado em como a Inteligência Artificial Generativa pode ser um *power-up* para engenheiros de dados, transformando tarefas complexas em processos eficientes.
 
 Este e-book foi criado como uma atividade de curso, explorando desde a concepção de conteúdo até a criação de arte com IA.
 
