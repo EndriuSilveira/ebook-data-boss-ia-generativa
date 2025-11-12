@@ -6,8 +6,8 @@ Bem-vindo ao repositório do projeto "Data Boss: O Modo Deus da IA Generativa"[c
 
 Este e-book foi criado como uma atividade de curso, explorando desde a concepção de conteúdo até a criação de arte com IA.
 
-[cite_start]**Autor:** Endriu Silveira [cite: 4]
-[cite_start]**LinkedIn:** [https://www.linkedin.com/in/endriu-silveira/](https://www.linkedin.com/in/endriu-silveira/) [cite: 83, 84]
+**Autor:** Endriu Silveira [cite: 4]
+**LinkedIn:** [https://www.linkedin.com/in/endriu-silveira/](https://www.linkedin.com/in/endriu-silveira/) [cite: 83, 84]
 
 ## 📖 O E-book
 
@@ -17,9 +17,9 @@ O e-book completo está disponível neste repositório.
 
 ### Estrutura do Conteúdo
 
-* [cite_start]**Capítulo 1: O Despertar da IA Generativa** [cite: 6] - [cite_start]Uma introdução ao "Ambiente Vazio" do engenheiro de dados e como a GenAI preenche essa lacuna. [cite: 8, 11, 17]
-* [cite_start]**Capítulo 2: MINI-BOSS: O Deserto de Dados** [cite: 20] - [cite_start]Um exemplo prático usando o método STAR para gerar dados de teste (mock data) [cite: 27][cite_start], comparando o método antigo ("Grind") [cite: 30] [cite_start]com o "Modo Deus" (IA Generativa)[cite: 48].
-* **Capítulo 3: LEVEL CLEAR! [cite_start]O Novo High Score** [cite: 61] - [cite_start]Uma análise dos resultados e como a GenAI elimina o "grinding" do trabalho. [cite: 70]
+**Capítulo 1: O Despertar da IA Generativa** Uma introdução ao "Ambiente Vazio" do engenheiro de dados e como a GenAI preenche essa lacuna.
+**Capítulo 2: MINI-BOSS: O Deserto de Dados**Um exemplo prático usando o método STAR para gerar dados de teste (mock data) [cite: 27][cite_start], comparando o método antigo ("Grind")  com o "Modo Deus" (IA Generativa)
+* **Capítulo 3: LEVEL CLEAR! O Novo High Score**  Uma análise dos resultados e como a GenAI elimina o "grinding" do trabalho.
 
 ## O Processo de Criação 
 
