@@ -6,8 +6,8 @@ Bem-vindo ao repositório do projeto "Data Boss: O Modo Deus da IA Generativa"[c
 
 Este e-book foi criado como uma atividade de curso, explorando desde a concepção de conteúdo até a criação de arte com IA.
 
-**Autor:** Endriu Silveira [cite: 4]
-**LinkedIn:** [https://www.linkedin.com/in/endriu-silveira/](https://www.linkedin.com/in/endriu-silveira/) [cite: 83, 84]
+**Autor:** Endriu Silveira 
+**LinkedIn:** [https://www.linkedin.com/in/endriu-silveira/](https://www.linkedin.com/in/endriu-silveira/) 
 
 ## 📖 O E-book
 
