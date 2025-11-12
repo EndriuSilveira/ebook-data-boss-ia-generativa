@@ -42,12 +42,12 @@ Create a cover for the title "Data Boss: The God Mode of Generative AI" that has
 
 
 Prompt utilizado para criação do roteiro:
+
 Você é um criador de e-book profissional
 esse e-book ira conter 3 paginas mostrando o quanto a inteligência artificial é significante para engenharia de dados.
 --------------------
 Regras do conteúdo:
 As paginas devem conter um exemplo de eficiência da ia generativa para engenharia de dados, tendo um exemplo de um problema na estrutura "STAR" com códigos curtos e simples que qualquer pessoa consiga entender.
-
 ----------------------
 
 
