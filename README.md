@@ -25,6 +25,10 @@ O e-book completo está disponível neste repositório.
 
 ## O Processo de Criação 
 
+Ferramenats utilizadas:
+Gemini para criação de titulo, capa e o roteiro.  
+Powerpoint para criação do ebook
+
 Prompt utilizado para criação do titulo:
 
 crie um titulo de ebook sobre o tema de ia generativa para área de enegenharia de dados, o ebook é do nicho de programação e o sub nicho é tecnologia, o titulo dever ser epico e curto, e tenha uma temática de video games  e liste 5 variaçoes de titulos
@@ -33,8 +37,18 @@ crie um titulo de ebook sobre o tema de ia generativa para área de enegenharia 
 Prompt para criação do novo titutlo:
 "Modo Deus: IA Generativa para Engenheiros de Dados" e "Data Boss: A Batalha da IA Generativa"   combine esse 2 titulos para criar novos titulos.
 
-Prompts utilizado para criação da capa:
+Prompt utilizado para criação da capa:
 Create a cover for the title "Data Boss: The God Mode of Generative AI" that has the feel of an 80s game, and leave the title in Brazilian Portuguese.
+
+
+Prompt utilizado para criação do roteiro:
+Você é um criador de e-book profissional
+esse e-book ira conter 3 paginas mostrando o quanto a inteligência artificial é significante para engenharia de dados.
+--------------------
+Regras do conteúdo:
+As paginas devem conter um exemplo de eficiência da ia generativa para engenharia de dados, tendo um exemplo de um problema na estrutura "STAR" com códigos curtos e simples que qualquer pessoa consiga entender.
+
+----------------------
 
 
 ### Histórico de Prompts (Direção de Arte)
